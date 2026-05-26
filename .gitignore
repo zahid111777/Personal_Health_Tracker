@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Documentation (contains credentials)
+code_explainer.md
+Personal_Health_Tracker_Copilot_Prompt.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF outputs
+*.pdf
